@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # DominandoEDComPython
 
@@ -42,3 +43,6 @@ Para dúvidas e sugestões, por favor, abra uma *issue* no repositório ou envie
 ---
 
 Agradecemos o seu interesse e esperamos que este repositório ajude você a dominar as Estruturas de Dados com Python!
+=======
+# TADS_Estrutura_de_Dados
+>>>>>>> 357c1fa584b609f2d5f9feb04ca94f53424642d2
